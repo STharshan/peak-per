@@ -14,7 +14,7 @@ const TestimonialsSection = () => {
 
   return (
     <section className="bg-white dark:bg-black px-4 py-16 transition-colors">
-      <div className="max-w-7xl mx-auto flex justify-center mt-15 items-center">
+      <div className="max-w-7xl mx-auto flex justify-center items-center">
         {/* Left Side (Centered Content) */}
         <div data-aos="fade-right" data-aos-delay="100" className="text-center md:text-left">
           {/* Subtitle */}
