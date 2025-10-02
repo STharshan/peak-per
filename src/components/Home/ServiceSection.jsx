@@ -7,21 +7,20 @@ import "aos/dist/aos.css";
 const services = [
   {
     title: "VEHICLE SERVICE AND REPAIR",
-    desc: `Peak Performance Centre use only Original Equipment Specification parts and work with the Care and Attention your car deserves. We offer the Highest Quality Customer Service and will treat your vehicle as if it were our own. Leave the workshop with your car feeling brand new. You’ll be amazed by the difference our Dealer Level Service will make.`,
+    desc: `Full car servicing to keep your vehicle running smoothly and efficiently.`,
     image: "/s1.avif",
     path: "/services/mechanical",
   },
   {
     title: "DEALER LEVEL DIAGNOSTICS",
    desc: `
-DEALER LEVEL DIAGNOSTICS
-You’re a Busy Person — don’t let vehicle problems get in your way. Peak Performance Centre have the Specialist Equipment, Training and Experience to Locate and Repair your fault First Time. `,
+You’re a Busy Person — don’t let vehicle problems get in your way. `,
     image: "/s2.avif",
     path: "/services/service",
   },
   {
     title: "ECU REMAPPING",
-    desc: `Unlock your cars true potential with a Performance Software package that suits both you and your vehicle. With more Brake Horsepower and an increase in Torque, your vehicle will drive like new and you'll be surprised by the level of improvements gained. `,
+    desc: `Unlock your cars true potential with a Performance Software package that suits both you and your vehicle `,
     image: "/s3.avif",
     path: "/services/mot",
   },
@@ -34,7 +33,7 @@ NOT ANY MORE!!! `,
   },
     {
     title: "TIMING BELT AND CHAIN REPLACEMENT ",
-    desc: `Your vehicle's Timing Belt unfortunately comes with a limited life expectancy which should Never go unanswered. The Cost of Repairs if it were to fail can surmount to Thousands of pounds worth of Engine Damage. Don't Leave it to Chance! Drop in or Call us for Advice on Replacement Interval Guidelines. `,
+    desc: `Your vehicle's Timing Belt unfortunately comes with a limited life expectancy which should Never go unanswered.`,
     image: "/s5.avif",
     path: "/services/wheel-alignment",
   }
