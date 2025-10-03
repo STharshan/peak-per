@@ -81,7 +81,7 @@ const AboutSection = () => {
         <div className="relative" data-aos="fade-left">
           <div className="relative z-10 rounded-lg shadow-lg">
             <img
-              src="/image.png"
+              src="/s5.avif"
               alt="Spray Work"
               className="w-full object-cover h-150 rounded-sm"
             />
